@@ -7,3 +7,6 @@
 ```xml
 <PackageReference Include="Volo.Abp.Swashbuckle" Version="5.3.4" />
 ```
+
+## Reference
+- MinimalAbp [github](https://github.com/antosubash/MinimalAbp)
